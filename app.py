@@ -1,7 +1,6 @@
 import cv2
 import streamlit as st
 import numpy as np
-import tempfile
 
 # Use this line to capture video from the webcam
 cap = cv2.VideoCapture(0)
